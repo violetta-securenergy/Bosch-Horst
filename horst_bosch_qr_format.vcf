@@ -2,9 +2,8 @@
 VERSION:3.0
 FN:Horst Bosch
 EMAIL;TYPE=INTERNET,WORK:horst.bosch@securenergy.de
-TEL;TYPE=WORK,VOICE:+4930868001070
 TEL;TYPE=CELL,VOICE:+4915257563871
 URL:https://www.securenergy.de
-ADR;TYPE=WORK:;;Kurfürstendamm 40/41;Berlin;;10719;Deutschland
-ORG:securenergy solutions AG
+ADR;TYPE=ADRESS:;;Kurfürstendamm 40/41;Berlin;;10719;Deutschland
+ORG:Horst Bosch
 END:VCARD
